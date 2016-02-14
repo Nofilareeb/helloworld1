@@ -1,4 +1,4 @@
-#Technology mobile and web development
+#Technology mobile and web development...!!!
 ======================================
 ####Tools and programing languages
 + GIT
@@ -6,9 +6,10 @@
 + JAVA
 + MANGO
 + NODE JS
+
  ==================
  
-*USER* ***NOFILAREEB***
+*USER*: ***NOFILAREEB***
 
 ==============================
 
