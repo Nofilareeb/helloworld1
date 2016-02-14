@@ -3,7 +3,7 @@
 ####Tools and programing languages
 * GIT
 * HTML 5
-* JAVA sSCRIPT
+* JAVA SCRIPT
 * MANGO
 * NODE JS
 * TYPE SCRIPT
@@ -14,5 +14,8 @@
 ==============================
 
 ###Date: 14-02-2016
+
+======================
+
 
 [Git Hub Link](https://github.com/)
