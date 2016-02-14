@@ -1,13 +1,12 @@
 #Technology mobile and web development...!!!
 
 ####Tools and programing languages
-+ GIT
-+ HTML 5
-+ JAVA
-+ MANGO
-+ NODE JS
-
- ==================
+* GIT
+* HTML 5
+* JAVA sSCRIPT
+* MANGO
+* NODE JS
+* TYPE SCRIPT
  
 *USER*: ***NOFILAREEB***
 
