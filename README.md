@@ -17,7 +17,7 @@
 
 ======================
 
-[Image](C:\Users\hp\Desktop\Helloworld\helloworld1)
+[Image](C:\Users\hp\Desktop\Helloworld\helloworld1\study.png)
 
 
 ###Date: 14-02-2016
